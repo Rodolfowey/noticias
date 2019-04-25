@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+
+	<title>Noticias Clave</title>
+	<link>https://www.jw.org/es/noticias/testigos-de-jehova/</link>
+	<description>Contenido de Calidad</description>
+
+	<item>
+		<title>Devastadoras inundaciones en Estados Unidos</title>
+		<link>https://www.jw.org/es/noticias/testigos-de-jehova/region/estados-unidos/Devastadoras-inundaciones-en-Estados-Unidos/</link>
+		<description>Desastres naturales en EEUU</description>
+	</item>
+
+
+	<item>
+		<title>Se tortura a testigos de Jehová en Rusia</title>
+		<link>https://www.jw.org/es/noticias/testigos-de-jehova/region/rusia/Se-tortura-a-testigos-de-Jehov%C3%A1-en-Rusia/</link>
+		<description>Tortura por parte de la policia rusa a Testigos de Jehova</description>
+	</item>
+
+
+	<item>
+		<title>Otro testigo de Jehová condenado en Rusia</title>
+		<link>https://www.jw.org/es/noticias/testigos-de-jehova/region/rusia/Otro-testigo-de-Jehov%C3%A1-condenado-en-Rusia/</link>
+		<description>Condena de carcel a Testigos de Jehova por su fe</description>
+	</item>
+
+
+	<item>
+		<title>Un tribunal ruso condena injustamente a Dennis Christensen a seis años de prisión</title>
+		<link>https://www.jw.org/es/noticias/testigos-de-jehova/region/rusia/Un-tribunal-ruso-condena-injustamente-a-Dennis-Christensen-a-seis-a%C3%B1os-de-prisi%C3%B3n/</link>
+		<description>Condena injusta a un ciudadano danes en Rusia por su fe</description>
+	</item>
+
+
+	<item>
+		<title>Concluyen las labores de socorro en Puerto Rico</title>
+		<link>https://www.jw.org/es/noticias/testigos-de-jehova/region/puerto-rico/Concluyen-las-labores-de-socorro-en-Puerto-Rico/</link>
+		<description>Conclusion de labores de socorro en Puerto Rico</description>
+	</item>
+
+	
+</channel>
+</rss>
